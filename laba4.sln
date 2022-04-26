@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "laba4", "laba4\laba4.pyproj", "{53E12F3F-6C1F-4D87-BED9-3D4A8DB23D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E12F3F-6C1F-4D87-BED9-3D4A8DB23D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E12F3F-6C1F-4D87-BED9-3D4A8DB23D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B228ED1-1FD2-4E08-BA07-9E4D33898A56}
+	EndGlobalSection
+EndGlobal
